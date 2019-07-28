@@ -1,10 +1,13 @@
 <?php
 
-$email = $_POST["email"]
-$currency = $_POST["currency"]
-$price = $_POST["price"]
-$ip = $_POST["ip_address"]
-
-$items = $_POST["items"]
-
+$email = $_POST["email"];
+echo $email;
+$currency = $_POST["currency"];
+echo $currency
+$price = $_POST["price"];
+echo $price  
+$ip = $_POST["ip_address"];
+echo $ip
+$items = $_POST["items"];
+echo $items
 ?>
